@@ -8,6 +8,7 @@
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>.rx.tap.subscribe(onNext: { [weak self] in
+    &lt;# placehodler #&gt;
         }).disposed(by: disposeBag)</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>74C9EBA5-CDA9-4F12-B6B9-4ACC7B46FC0A</string>
