@@ -1,0 +1,1 @@
+/Users/hongwu/Library/Application Support/V2RayX/pac/pac.js
