@@ -53,6 +53,7 @@
 - [SwitchHosts](https://github.com/oldj/SwitchHosts/releases) 域名host解析必备神器, 支持 windows和Mac的开源工具, mac下只有几百K大小.
 - [Scroll Reverser](http://pilotmoon.com/scrollreverser/) mac滚动方向自定义应用, 可分别设置鼠标和触摸板的上下左右的滚动效果.
 - [Size up](http://www.irradiatedsoftware.com/sizeup/) 分屏应用, 类似Moon的一款应用, 支持上下左右居中、4个角落快速分屏及多屏幕切换.
+- [Hammerspoon](<https://www.hammerspoon.org/>) mac 下的实现一些自动化的工具，使用lua和系统交互，像上面说的SizeUP实现的分屏功能利用Hammerspoon也很容易实现，具体可以参考官网的 **Window sizing** 章节介绍。懒人使用可以直接下载[**awesome-hammerspoon**](<https://github.com/ashfinal/awesome-hammerspoon>)
 - [Divvy](http://www.pc6.com/mac/124992.html) 另一款分屏应用, 可将屏幕分成多宫格的形式, 然后为每个格子定义快捷键, 遗憾的是不支持多屏幕切换.
 - [Graphviz](http://www.graphviz.org/) 贝尔实验室开发的有向图/无向图自动布局应用, 支持dot脚本绘制结构图, 流程图等. 可参考教程 [利用Graphviz 画结构图](http://www.cnblogs.com/sld666666/archive/2010/06/25/1765510.html) 及 [使用graphviz绘制流程图](http://www.cnblogs.com/CoolJie/archive/2012/07/17/graphviz.html) .
 - [XMind](http://www.xmindchina.net/) 思维导图应用, 适合业务及思路梳理.
