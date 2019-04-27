@@ -100,6 +100,7 @@
 - [HyperSwitch](https://bahoom.com/hyperswitch) 带有预览图的快速切换, 作用同Command+Tab.
 - [Cool retro term](https://github.com/Swordfish90/cool-retro-term) 终端变身复古显示器.
 - [Fruit Juice](http://www.pc6.com/mac/119197.html) 电池管理应用, 帮助延迟电池的使用时间.
+- [aria2](<https://github.com/aria2/aria2>)下载利器，支持多种下载协议，跨平台，mac下可以安装[**aria2gui**](<https://github.com/yangshun1029/aria2gui>)。
 
 ### 终端命令
 
