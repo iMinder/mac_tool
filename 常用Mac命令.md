@@ -5,3 +5,4 @@ pwpolicy -clearaccountpolicies //执行这个命令，输入当前密码
 ```
 
 上述命令就去掉了当前机器的密码设置要求，可以尽情设置短密码了。
+
